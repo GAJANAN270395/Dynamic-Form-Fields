@@ -66,3 +66,11 @@ input[type="Submit"]:hover{
   border-radius: 25px;
   cursor: pointer;
 }
+.controls button i{
+  margin-right: 5px;
+}
+.remove:hover, .add:hover{
+  background: #2691d9;
+  color: #e9f4fb;
+  transition: 0.5s;
+}
